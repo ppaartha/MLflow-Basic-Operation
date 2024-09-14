@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/end_to_end_ml/mlflow_test/mlruns/0/da4c4bd1e38345509e3e679c460ce117/artifacts
+end_time: 1726296890760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da4c4bd1e38345509e3e679c460ce117
+run_name: righteous-sow-234
+run_uuid: da4c4bd1e38345509e3e679c460ce117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726296885123
+status: 3
+tags: []
+user_id: Reve
